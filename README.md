@@ -2,7 +2,7 @@
 
 # 🤖 Laboratorio de Agentes de IA
 
-<img width="1060" alt="Screenshot 2025-01-03 at 5 39 25 PM" src="./thumbnail/profile.jpg" />
+<img width="540" alt="Screenshot 2025-01-03 at 5 39 25 PM" src="./thumbnail/profile.jpg" />
 
 
 Bienvenido al Laboratorio de Agentes de IA, un repositorio educativo que contiene una colección de agentes de inteligencia artificial para aprender y experimentar. Cada agente está diseñado con un propósito específico y puedes explorarlos, probarlos y aprender de ellos.
