@@ -1,0 +1,7 @@
+crewai 
+crewai-tools 
+chonkie[semantic] 
+markitdown 
+qdrant-client 
+fastembed
+firecrawl-py
